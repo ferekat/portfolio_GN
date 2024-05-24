@@ -1,0 +1,304 @@
+body {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    margin-bottom: 5%;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-size: 150%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    font-weight: 530;
+  }
+  
+  img {
+    position: absolute;
+    cursor: pointer;
+  }
+  
+  .mail {
+    width: 1.1%;
+    display: inline-table;
+  }
+  
+  .insta {
+    width: 1.1%;
+  }
+  
+  .tiktok {
+    width: 1.1%;
+  }
+
+  div .row>.column {
+    padding: 0 8px;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Create four equal columns that floats next to eachother */
+  .column {
+    float: left;
+    width: 25%;
+  }
+  
+  /* The Modal (background) */
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.808);
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    margin-top: 1%;
+    padding: 0;
+    width: 90%;
+    max-width: 1200px;
+  }
+  
+  /* The Close Button */
+  .close {
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    font-size: 35px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #999;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  /* Hide the slides by default */
+  .mySlides {
+    display: none;
+  }
+  
+  /* Next & previous buttons */
+  .prev,
+  .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover,
+  .next:hover {
+    background-color: rgba(0, 0, 0, 0.918);
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 100%;
+    position: absolute;
+    margin-top: 46%;
+    margin-left: 47.5%;
+  }
+  
+  /* Caption text */
+  .caption-container {
+    text-align: center;
+    padding: 2px 16px;
+    color: white;
+  }
+  
+  img.demo {
+    opacity: 0.6;
+  }
+  
+  .active,
+  .demo:hover {
+    opacity: 1;
+  }
+  
+  .hover-shadow {
+    transition: 0.3s;
+  }
+  
+  .hover-shadow:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+  }
+  
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(88, 87, 87);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+  }
+  
+  p {
+    margin-left: 5%;
+  }
+  
+  .contact {
+    margin-top: 300%;
+  }
+  
+  table {
+    width: 80%;
+    text-align: center;
+    border-color: 1px solid white;
+    margin-top: 250%;
+    margin-right: 5%;
+  }
+  
+  td {
+    text-align: center;
+    border: 1px solid white;
+  }
+  
+  .icons {
+    width: 3%;
+    display: inline;
+    float: right;
+  }
+  
+  #mail {
+    width: 23.5%;
+  }
+  
+  #insta {
+    width: 10%;
+  }
+  
+  #tiktok {
+    width: 10%;
+  }
+  
+  a {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-style: normal;
+  }
+  
+  @media only screen and (max-width:768px) {
+    body {
+      margin-bottom: 0%;
+    }
+  
+    div .modal-content {
+      margin-top: 10%;
+    }
+  
+    .numbertext {
+      margin-top: 110%;
+      margin-left: 42%;
+    }
+  
+    footer {
+      height: auto;
+    }
+  
+    img {
+      position: absolute;
+    }
+  
+  
+    #melinda2_gal,
+    #hal_gal,
+    #barlang_gal,
+    #arnyek2_gal,
+    #melinda3_gal,
+    #arnyek1_gal,
+    #adel3_gal,
+    #neni_gal,
+    #latengerpart_gal {
+      width: 70%;
+      left: 15%;
+    }
+  
+    #szobor_gal,
+    #horgasz2_gal,
+    #vulkan_gal,
+    #tengerpart_gal,
+    #horgasz1_gal,
+    #ns_gal {
+      width: 85%;
+      left: 7.5%;
+      top: 30%;
+    }
+  
+    #dubai1_gal,
+    #dubai3_gal,
+    #madaras_gal {
+      width: 80%;
+      left: 10%;
+    }
+  
+    .mail {
+      width: 8%;
+      left: 32.8%;
+      top: 890%;
+    }
+  
+    .insta {
+      width: 8%;
+      left: 45.4%;
+      top: 890%;
+    }
+  
+    .tiktok {
+      width: 8%;
+      left: 58.7%;
+      top: 890%;
+    }
+  
+    p {
+      margin-left: 5%;
+    }
+  
+    .contact {
+      margin-top: 1500%;
+    }
+  
+    table .username {
+      display: none;
+    }
+  
+  }

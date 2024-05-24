@@ -1,0 +1,164 @@
+[
+    {
+        "id": "melinda2",
+        "src": "portfolio/image0.jpg",
+        "onclick":"openModal();currentSlide(1)",
+        "class": "hover-shadow",
+        "width": "50%",
+        "top":"10%",
+        "left":"25%"
+    },
+    {
+        "id": "horgasz1",
+        "src": "portfolio/image1.jpg",
+        "onclick":"openModal();currentSlide(2)",
+        "class": "hover-shadow",
+        "width": "70%",
+        "top":"65%",
+        "left":"15%"
+    },
+    {
+        "id": "latengerpart",
+        "src": "portfolio/image2.jpg",
+        "onclick":"openModal();currentSlide(3)",
+        "class": "hover-shadow",
+        "width": "50%",
+        "top":"105%",
+        "left":"25%"
+    },
+    {
+        "id": "dubai1",
+        "src": "portfolio/image3.jpg",
+        "onclick":"openModal();currentSlide(4)",
+        "class": "hover-shadow",
+        "width": "70%",
+        "top":"160%",
+        "left":"15%"
+    },
+    {
+        "id": "tengerpart",
+        "src": "portfolio/image4.jpg",
+        "onclick":"openModal();currentSlide(5)",
+        "class": "hover-shadow",
+        "width": "70%",
+        "top":"260%",
+        "left":"15%"
+    },
+    {
+        "id": "hal",
+        "src": "portfolio/image5.jpg",
+        "onclick":"openModal();currentSlide(6)",
+        "class": "hover-shadow",
+        "width": "50%",
+        "top":"205%",
+        "left":"25%"
+    },
+    {
+        "id": "madaras",
+        "src": "portfolio/image6.jpg",
+        "onclick":"openModal();currentSlide(7)",
+        "class": "hover-shadow",
+        "width": "55%",
+        "top":"300%",
+        "left":"22.5%"
+    },
+    {
+        "id": "vulkan",
+        "src": "portfolio/image7.jpg",
+        "onclick":"openModal();currentSlide(8)",
+        "class": "hover-shadow",
+        "width": "70%",
+        "top":"350%",
+        "left":"15%"
+    },
+    {
+        "id": "barlangibacsi",
+        "src": "portfolio/image8.jpg",
+        "onclick":"openModal();currentSlide(9)",
+        "class": "hover-shadow",
+        "width": "50%",
+        "top":"390%",
+        "left":"25%"
+    },
+    {
+        "id": "arnyek2",
+        "src": "portfolio/image9.jpg",
+        "onclick":"openModal();currentSlide(10)",
+        "class": "hover-shadow",
+        "width": "50%",
+        "top":"445%",
+        "left":"25%"
+    },
+    {
+        "id": "melinda3",
+        "src": "portfolio/image10.jpg",
+        "onclick":"openModal();currentSlide(11)",
+        "class": "hover-shadow",
+        "width": "50%",
+        "top":"500%",
+        "left":"25%"
+    },
+    {
+        "id": "arnyek1",
+        "src": "portfolio/image11.jpg",
+        "onclick":"openModal();currentSlide(12)",
+        "class": "hover-shadow",
+        "width": "50%",
+        "top":"555%",
+        "left":"25%"
+    },
+    {
+        "id": "horgasz2",
+        "src": "portfolio/image12.jpg",
+        "onclick":"openModal();currentSlide(13)",
+        "class": "hover-shadow",
+        "width": "70%",
+        "top":"610%",
+        "left":"15%"
+    },
+    {
+        "id": "adel3",
+        "src": "portfolio/image13.jpg",
+        "onclick":"openModal();currentSlide(14)",
+        "class": "hover-shadow",
+        "width": "50%",
+        "top":"650%",
+        "left":"25%"
+    },
+    {
+        "id": "dubai3",
+        "src": "portfolio/image14.jpg",
+        "onclick":"openModal();currentSlide(15)",
+        "class": "hover-shadow",
+        "width": "70%",
+        "top":"705%",
+        "left":"15%"
+    },
+    {
+        "id": "noswimmin",
+        "src": "portfolio/image15.jpg",
+        "onclick":"openModal();currentSlide(16)",
+        "class": "hover-shadow",
+        "width": "70%",
+        "top":"750%",
+        "left":"15%"
+    },
+    {
+        "id": "neni",
+        "src": "portfolio/image16.jpg",
+        "onclick":"openModal();currentSlide(17)",
+        "class": "hover-shadow",
+        "width": "50%",
+        "top":"795%",
+        "left":"25%"
+    },
+    {
+        "id": "szobor",
+        "src": "portfolio/image17.jpg",
+        "onclick":"openModal();currentSlide(18)",
+        "class": "hover-shadow",
+        "width": "70%",
+        "top":"850%",
+        "left":"15%"
+    }
+]
