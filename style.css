@@ -184,7 +184,7 @@ body {
     width: 80%;
     text-align: center;
     border-color: 1px solid white;
-    margin-top: 250%;
+    margin-top: 300%;
     margin-right: 5%;
   }
   
@@ -219,7 +219,7 @@ body {
   
   @media only screen and (max-width:768px) {
     body {
-      margin-bottom: 0%;
+      margin-bottom: 25%;
     }
   
     div .modal-content {
@@ -230,6 +230,9 @@ body {
       margin-top: 110%;
       margin-left: 42%;
     }
+    table{
+      margin-top: 1850%;
+    }
   
     footer {
       height: auto;
@@ -238,60 +241,20 @@ body {
     img {
       position: absolute;
     }
-  #image0_gal,
-    #image4_gal,
-    #image8_gal,
-    #image9_gal,
-    #image10_gal,
-    #image11_gal,
-    #image13_gal,
-    #image16_gal,
-    #image14_gal,
-    #image2_gal,
-    #image18_gal,
-    #image22_gal {
-      width: 70%;
-      left: 15%;
-    }
-  
-    #image17_gal,
-    #image15_gal,
-    #image7_gal,
-    #image5_gal,
-    #image1_gal,
-    #image15_gal,
-    #image19_gal,
-    #image21_gal,
-    #image23_gal {
-      width: 85%;
-      left: 7.5%;
-      top: 30%;
-    }
-  
-    #image20_gal,
-    #image14_gal,
-    #image3_gal,
-    #image6_gal {
-      width: 80%;
-      left: 10%;
-    }
   
     .mail {
       width: 8%;
       left: 32.8%;
-      top: 890%;
     }
   
     .insta {
       width: 8%;
       left: 45.4%;
-      top: 890%;
     }
   
     .tiktok {
       width: 8%;
       left: 58.7%;
-      top: 890%;
     }
   
     p {
