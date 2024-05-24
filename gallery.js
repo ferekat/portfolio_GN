@@ -9,7 +9,13 @@ const json = [
     "top": "15%",
     "left": "5%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"10%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image1",
@@ -20,7 +26,13 @@ const json = [
     "top": "22%",
     "left": "32%",
     "gal_width": "63%",
-    "gal_left": "18.5%"
+    "gal_left": "18.5%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"65%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
   {
     "id": "image2",
@@ -31,7 +43,13 @@ const json = [
     "top": "15%",
     "left": "74%",
     "gal_width": "30%",
-    "gal_left": "35%"
+    "gal_left": "35%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"105%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image3",
@@ -42,7 +60,13 @@ const json = [
     "top": "110%",
     "left": "5%",
     "gal_width": "55%",
-    "gal_left": "22.5%"
+    "gal_left": "22.5%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"160%",
+    "mobile_width_gal":"80%",
+    "mobile_left_gal":"10%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image4",
@@ -53,7 +77,13 @@ const json = [
     "top": "100%",
     "left": "39%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"205%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image5",
@@ -64,7 +94,13 @@ const json = [
     "top": "110%",
     "left": "63%",
     "gal_width": "66%",
-    "gal_left": "18%"
+    "gal_left": "18%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"260%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
   {
     "id": "image6",
@@ -75,7 +111,13 @@ const json = [
     "top": "190%",
     "left": "5%",
     "gal_width": "37%",
-    "gal_left": "31.5%"
+    "gal_left": "31.5%",
+    "mobile_width":"55%",
+    "mobile_left":"22.5%",
+    "mobile_top":"300%",
+    "mobile_width_gal":"80%",
+    "mobile_left_gal":"10%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image7",
@@ -86,7 +128,13 @@ const json = [
     "top": "197%",
     "left": "35%",
     "gal_width": "66%",
-    "gal_left": "18%"
+    "gal_left": "18%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"350%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
   {
     "id": "image8",
@@ -97,7 +145,13 @@ const json = [
     "top": "190%",
     "left": "74%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"390%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image9",
@@ -108,7 +162,13 @@ const json = [
     "top": "280%",
     "left": "5%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"445%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image10",
@@ -119,7 +179,13 @@ const json = [
     "top": "280%",
     "left": "40%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"500%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image11",
@@ -130,7 +196,13 @@ const json = [
     "top": "280%",
     "left": "74%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"555%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image20",
@@ -141,7 +213,13 @@ const json = [
     "top": "370%",
     "left": "5%",
     "gal_width": "30%",
-    "gal_left": "35%"
+    "gal_left": "35%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"610%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image19",
@@ -152,7 +230,13 @@ const json = [
     "top": "377%",
     "left": "31.5%",
     "gal_width": "66%",
-    "gal_left": "18%"
+    "gal_left": "18%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"665%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
   {
     "id": "image18",
@@ -163,7 +247,13 @@ const json = [
     "top": "370%",
     "left": "73%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"55%",
+    "mobile_left":"22.5%",
+    "mobile_top":"705%",
+    "mobile_width_gal":"80%",
+    "mobile_left_gal":"10%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image12",
@@ -174,7 +264,13 @@ const json = [
     "top": "460%",
     "left": "5%",
     "gal_width": "66%",
-    "gal_left": "18%"
+    "gal_left": "18%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"760%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
   {
     "id": "image13",
@@ -185,7 +281,13 @@ const json = [
     "top": "445%",
     "left": "40%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"800%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image14",
@@ -196,7 +298,13 @@ const json = [
     "top": "460%",
     "left": "70%",
     "gal_width": "56%",
-    "gal_left": "22%"
+    "gal_left": "22%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"855%",
+    "mobile_width_gal":"80%",
+    "mobile_left_gal":"10%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image15",
@@ -207,7 +315,13 @@ const json = [
     "top": "525%",
     "left": "5%",
     "gal_width": "56%",
-    "gal_left": "22%"
+    "gal_left": "22%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"900%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
   {
     "id": "image16",
@@ -218,18 +332,30 @@ const json = [
     "top": "526%",
     "left": "42%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"945%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image17",
-    "src": "portfolio/image17.JPG",
+    "src": "portfolio/image17.jpg",
     "onclick": "openModal();currentSlide(18)",
     "class": "hover-shadow",
     "width": "35%",
     "top": "525%",
     "left": "63%",
     "gal_width": "66%",
-    "gal_left": "18%"
+    "gal_left": "18%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"1000%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
   {
     "id": "image21",
@@ -240,7 +366,13 @@ const json = [
     "top": "603%",
     "left": "5%",
     "gal_width": "66%",
-    "gal_left": "18%"
+    "gal_left": "18%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"1040%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
   {
     "id": "image22",
@@ -251,7 +383,13 @@ const json = [
     "top": "595%",
     "left": "41%",
     "gal_width": "29%",
-    "gal_left": "35.5%"
+    "gal_left": "35.5%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"1080%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
+    "mobile_top_gal":"auto"
   },
   {
     "id": "image23",
@@ -262,7 +400,13 @@ const json = [
     "top": "603%",
     "left": "65%",
     "gal_width": "66%",
-    "gal_left": "18%"
+    "gal_left": "18%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"1135%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
 ]
 
@@ -284,9 +428,9 @@ function placePictures() {
     newImg.id = json[i].id;
     newImg.src = json[i].src;
     newImg.class = json[i].class;
-    newImg.style.width = json[i].width;
-    newImg.style.top = json[i].top;
-    newImg.style.left = json[i].left;
+    newImg.style.width = window.innerWidth <= 600 ? json[i].mobile_width : json[i].width;
+    newImg.style.top = window.innerWidth <= 600 ? json[i].mobile_top : json[i].top;
+    newImg.style.left = window.innerWidth <= 600 ? json[i].mobile_left : json[i].left;
     newImg.className = json[i].id + " hover-shadow";
     newImg.addEventListener('click', function () {
       openModal();
@@ -322,8 +466,8 @@ function createModal() {
     const img = document.createElement("img");
     img.id = json[i].id + "_gal";
     img.src = json[i].src;
-    img.style.width = json[i].gal_width;
-    img.style.left = json[i].gal_left;
+    img.style.width = window.innerWidth <= 600 ? json[i].mobile_width_gal : json[i].gal_width;
+    img.style.left = window.innerWidth <= 600 ? json[i].mobile_left_gal : json[i].gal_left;
 
     slideDiv.appendChild(numberTextDiv);
     slideDiv.appendChild(img);
@@ -356,19 +500,17 @@ function currentSlide(n) {
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
   var captionText = document.getElementById("caption");
+  
   if (n > slides.length) { slideIndex = 1 }
   if (n < 1) { slideIndex = slides.length }
+  
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";
   }
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
+  
   slides[slideIndex - 1].style.display = "block";
-  dots[slideIndex - 1].className += " active";
-  captionText.innerHTML = dots[slideIndex - 1].alt;
+  captionText.innerHTML = slides[slideIndex - 1].querySelector('img').id;
 }
 
 function initializeGallery() {
