@@ -238,35 +238,40 @@ body {
     img {
       position: absolute;
     }
-  
-  
-    #melinda2_gal,
-    #hal_gal,
-    #barlang_gal,
-    #arnyek2_gal,
-    #melinda3_gal,
-    #arnyek1_gal,
-    #adel3_gal,
-    #neni_gal,
-    #latengerpart_gal {
+  #image0_gal,
+    #image4_gal,
+    #image8_gal,
+    #image9_gal,
+    #image10_gal,
+    #image11_gal,
+    #image13_gal,
+    #image16_gal,
+    #image14_gal,
+    #image2_gal,
+    #image18_gal,
+    #image22_gal {
       width: 70%;
       left: 15%;
     }
   
-    #szobor_gal,
-    #horgasz2_gal,
-    #vulkan_gal,
-    #tengerpart_gal,
-    #horgasz1_gal,
-    #ns_gal {
+    #image17_gal,
+    #image15_gal,
+    #image7_gal,
+    #image5_gal,
+    #image1_gal,
+    #image15_gal,
+    #image19_gal,
+    #image21_gal,
+    #image23_gal {
       width: 85%;
       left: 7.5%;
       top: 30%;
     }
   
-    #dubai1_gal,
-    #dubai3_gal,
-    #madaras_gal {
+    #image20_gal,
+    #image14_gal,
+    #image3_gal,
+    #image6_gal {
       width: 80%;
       left: 10%;
     }
