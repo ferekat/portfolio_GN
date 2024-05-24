@@ -342,7 +342,7 @@ const json = [
   },
   {
     "id": "image17",
-    "src": "portfolio/image17.jpg",
+    "src": "portfolio/image17.JPG",
     "onclick": "openModal();currentSlide(18)",
     "class": "hover-shadow",
     "width": "35%",
