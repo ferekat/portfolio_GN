@@ -205,55 +205,55 @@ const json = [
     "mobile_top_gal":"auto"
   },
   {
-    "id": "image20",
-    "src": "portfolio/image20.jpg",
-    "onclick": "openModal();currentSlide(12)",
+    "id": "image21",
+    "src": "portfolio/image21.jpg",
+    "onclick": "openModal();currentSlide(17)",
     "class": "hover-shadow",
-    "width": "20%",
-    "top": "370%",
-    "left": "5%",
-    "gal_width": "30%",
-    "gal_left": "35%",
-    "mobile_width":"50%",
-    "mobile_left":"25%",
-    "mobile_top":"610%",
-    "mobile_width_gal":"70%",
-    "mobile_left_gal":"15%",
-    "mobile_top_gal":"auto"
-  },
-  {
-    "id": "image19",
-    "src": "portfolio/image19.jpg",
-    "onclick": "openModal();currentSlide(12)",
-    "class": "hover-shadow",
-    "width": "35%",
+    "width": "32%",
     "top": "377%",
-    "left": "31.5%",
+    "left": "5%",
     "gal_width": "66%",
     "gal_left": "18%",
     "mobile_width":"70%",
     "mobile_left":"15%",
-    "mobile_top":"665%",
+    "mobile_top":"610%",
     "mobile_width_gal":"85%",
     "mobile_left_gal":"7.5%",
     "mobile_top_gal":"30%"
   },
   {
-    "id": "image18",
-    "src": "portfolio/image18.jpg",
-    "onclick": "openModal();currentSlide(12)",
+    "id": "image22",
+    "src": "portfolio/image22.jpg",
+    "onclick": "openModal();currentSlide(17)",
     "class": "hover-shadow",
-    "width": "22.5%",
+    "width": "20%",
     "top": "370%",
-    "left": "73%",
+    "left": "41%",
     "gal_width": "29%",
     "gal_left": "35.5%",
-    "mobile_width":"55%",
-    "mobile_left":"22.5%",
-    "mobile_top":"705%",
-    "mobile_width_gal":"80%",
-    "mobile_left_gal":"10%",
+    "mobile_width":"50%",
+    "mobile_left":"25%",
+    "mobile_top":"650%",
+    "mobile_width_gal":"70%",
+    "mobile_left_gal":"15%",
     "mobile_top_gal":"auto"
+  },
+  {
+    "id": "image23",
+    "src": "portfolio/image23.jpg",
+    "onclick": "openModal();currentSlide(17)",
+    "class": "hover-shadow",
+    "width": "32%",
+    "top": "377%",
+    "left": "65%",
+    "gal_width": "66%",
+    "gal_left": "18%",
+    "mobile_width":"70%",
+    "mobile_left":"15%",
+    "mobile_top":"705%",
+    "mobile_width_gal":"85%",
+    "mobile_left_gal":"7.5%",
+    "mobile_top_gal":"30%"
   },
   {
     "id": "image12",
@@ -267,7 +267,7 @@ const json = [
     "gal_left": "18%",
     "mobile_width":"70%",
     "mobile_left":"15%",
-    "mobile_top":"760%",
+    "mobile_top":"745%",
     "mobile_width_gal":"85%",
     "mobile_left_gal":"7.5%",
     "mobile_top_gal":"30%"
@@ -284,7 +284,7 @@ const json = [
     "gal_left": "35.5%",
     "mobile_width":"50%",
     "mobile_left":"25%",
-    "mobile_top":"800%",
+    "mobile_top":"785%",
     "mobile_width_gal":"70%",
     "mobile_left_gal":"15%",
     "mobile_top_gal":"auto"
@@ -301,7 +301,7 @@ const json = [
     "gal_left": "22%",
     "mobile_width":"70%",
     "mobile_left":"15%",
-    "mobile_top":"855%",
+    "mobile_top":"840%",
     "mobile_width_gal":"80%",
     "mobile_left_gal":"10%",
     "mobile_top_gal":"auto"
@@ -318,7 +318,7 @@ const json = [
     "gal_left": "22%",
     "mobile_width":"70%",
     "mobile_left":"15%",
-    "mobile_top":"900%",
+    "mobile_top":"885%",
     "mobile_width_gal":"85%",
     "mobile_left_gal":"7.5%",
     "mobile_top_gal":"30%"
@@ -335,7 +335,7 @@ const json = [
     "gal_left": "35.5%",
     "mobile_width":"50%",
     "mobile_left":"25%",
-    "mobile_top":"945%",
+    "mobile_top":"930%",
     "mobile_width_gal":"70%",
     "mobile_left_gal":"15%",
     "mobile_top_gal":"auto"
@@ -352,61 +352,61 @@ const json = [
     "gal_left": "18%",
     "mobile_width":"70%",
     "mobile_left":"15%",
-    "mobile_top":"1000%",
+    "mobile_top":"985%",
     "mobile_width_gal":"85%",
     "mobile_left_gal":"7.5%",
     "mobile_top_gal":"30%"
   },
   {
-    "id": "image21",
-    "src": "portfolio/image21.jpg",
-    "onclick": "openModal();currentSlide(17)",
-    "class": "hover-shadow",
-    "width": "32%",
-    "top": "603%",
-    "left": "5%",
-    "gal_width": "66%",
-    "gal_left": "18%",
-    "mobile_width":"70%",
-    "mobile_left":"15%",
-    "mobile_top":"1040%",
-    "mobile_width_gal":"85%",
-    "mobile_left_gal":"7.5%",
-    "mobile_top_gal":"30%"
-  },
-  {
-    "id": "image22",
-    "src": "portfolio/image22.jpg",
-    "onclick": "openModal();currentSlide(17)",
+    "id": "image20",
+    "src": "portfolio/image20.jpg",
+    "onclick": "openModal();currentSlide(12)",
     "class": "hover-shadow",
     "width": "20%",
     "top": "595%",
-    "left": "41%",
-    "gal_width": "29%",
-    "gal_left": "35.5%",
+    "left": "5%",
+    "gal_width": "30%",
+    "gal_left": "35%",
     "mobile_width":"50%",
     "mobile_left":"25%",
-    "mobile_top":"1080%",
+    "mobile_top":"1025%",
     "mobile_width_gal":"70%",
     "mobile_left_gal":"15%",
     "mobile_top_gal":"auto"
   },
   {
-    "id": "image23",
-    "src": "portfolio/image23.jpg",
-    "onclick": "openModal();currentSlide(17)",
+    "id": "image19",
+    "src": "portfolio/image19.jpg",
+    "onclick": "openModal();currentSlide(12)",
     "class": "hover-shadow",
-    "width": "32%",
+    "width": "35%",
     "top": "603%",
-    "left": "65%",
+    "left": "31.5%",
     "gal_width": "66%",
     "gal_left": "18%",
     "mobile_width":"70%",
     "mobile_left":"15%",
-    "mobile_top":"1135%",
+    "mobile_top":"1080%",
     "mobile_width_gal":"85%",
     "mobile_left_gal":"7.5%",
     "mobile_top_gal":"30%"
+  },
+  {
+    "id": "image18",
+    "src": "portfolio/image18.jpg",
+    "onclick": "openModal();currentSlide(12)",
+    "class": "hover-shadow",
+    "width": "22.5%",
+    "top": "595%",
+    "left": "73%",
+    "gal_width": "29%",
+    "gal_left": "35.5%",
+    "mobile_width":"55%",
+    "mobile_left":"22.5%",
+    "mobile_top":"1120%",
+    "mobile_width_gal":"80%",
+    "mobile_left_gal":"10%",
+    "mobile_top_gal":"auto"
   },
 ]
 
@@ -415,6 +415,8 @@ document.addEventListener("DOMContentLoaded", function () {
   createModal();
   initializeGallery();
 });
+let body = document.body;
+body.style.marginBottom = window.innerWidth <= 768 ? "2200%" : "320%";
 
 function placePictures() {
   images.innerHTML = "";
@@ -428,9 +430,9 @@ function placePictures() {
     newImg.id = json[i].id;
     newImg.src = json[i].src;
     newImg.class = json[i].class;
-    newImg.style.width = window.innerWidth <= 600 ? json[i].mobile_width : json[i].width;
-    newImg.style.top = window.innerWidth <= 600 ? json[i].mobile_top : json[i].top;
-    newImg.style.left = window.innerWidth <= 600 ? json[i].mobile_left : json[i].left;
+    newImg.style.width = window.innerWidth <= 768 ? json[i].mobile_width : json[i].width;
+    newImg.style.top = window.innerWidth <= 768 ? json[i].mobile_top : json[i].top;
+    newImg.style.left = window.innerWidth <= 768 ? json[i].mobile_left : json[i].left;
     newImg.className = json[i].id + " hover-shadow";
     newImg.addEventListener('click', function () {
       openModal();
@@ -466,8 +468,8 @@ function createModal() {
     const img = document.createElement("img");
     img.id = json[i].id + "_gal";
     img.src = json[i].src;
-    img.style.width = window.innerWidth <= 600 ? json[i].mobile_width_gal : json[i].gal_width;
-    img.style.left = window.innerWidth <= 600 ? json[i].mobile_left_gal : json[i].gal_left;
+    img.style.width = window.innerWidth <= 768 ? json[i].mobile_width_gal : json[i].gal_width;
+    img.style.left = window.innerWidth <= 768 ? json[i].mobile_left_gal : json[i].gal_left;
 
     slideDiv.appendChild(numberTextDiv);
     slideDiv.appendChild(img);
