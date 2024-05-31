@@ -7,40 +7,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="icon" type="image/x-icon" href="pngtree-movie-board-icon-png-image_4751062.jpg">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Gombos Noémi</title>
 </head>
 
 <body>
     <header>
-        Gombos Noémi
+        <div class="title">Gombos Noémi |</div>
+    <ul class="nav-links">
+        <li><a href="index.html" id="index-mobile" style="border-bottom: 2px solid rgb(37,108,21);">photography</a></li>
+        <li><a href="videography.html" id="video-mobile">videography</a></li>
+        <li><a href="contact.html" id="contact-mobile">contact</a></li>
+            <li><a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars" id="fafa"></i>
+            </a></li>
+    </ul>
     </header>
+    <main></main>
+    <div id="mobile-fafa-div"></div>
+    <div id="mobile-div">
+        <a href="index.html"style="color: white;background-color: rgb(37,108,21)">photography</a>
+        <a href="videography.html">videography</a>
+        <a href="contact.html">contact</a>
+    </div>
     <div class="row"></div>
-        <table>
-            <tr>
-                <td class="icons">
-                    <a href="mailto:gombos.noemi1010@gmail.com" target="_blank"><img class="mail" src="portfolio/gmail.png"></a>
-                </td>
-                <td class="username" id="mail">
-                    <a href="mailto:gombos.noemi1010@gmail.com" target="_blank">gombos.noemi1010@gmail.com</a>
-                </td>
-                
-                <td class="icons">
-                    <a href="https://www.instagram.com/ankerkoz" target="_blank"><img class="insta" src="portfolio/pngtree-instagram-icon-instagram-logo-png-image_3584853.png"></a>
-                </td>
-                <td class="username" id="insta">
-                    <a href="https://www.instagram.com/ankerkoz" target="_blank">@ankerkoz</a>
-                </td>
-    
-                <td class="icons">
-                    <a href="https://www.tiktok.com/@ankerkoz" target="_blank"><img class="tiktok" src="portfolio/tiktok.png"></a>
-                </td>
-                <td class="username" id="tiktok">
-                    <a href="https://www.tiktok.com/@ankerkoz" target="_blank">@ankerkoz</a>
-                </td>
-    
-            </tr>
-        </table>
+    <div id="margin-div"></div>
     <script src="gallery.js"></script>
+    <script>
+        var icon = document.getElementById("fafa")
+        icon.style.display = window.innerWidth <= 768 ? "contents" : "none";
+        icon.style.paddingLeft = "350%";
+        icon.style.zIndex = "2";
+        var x = document.getElementById("mobile-fafa-div");
+        var y = document.getElementById("mobile-div")
+        x.style.display = "none";
+        y.style.display = "none";
+        function myFunction() {
+            if (x.style.display === "block") {
+                x.style.display = "none";
+            } else {
+                x.style.display = "block";
+            }
+            if (y.style.display === "block") {
+                y.style.display = "none";
+            } else {
+                y.style.display = "block";
+            }
+        }
+
+    </script>
     <footer>
         <address>
             <p>
